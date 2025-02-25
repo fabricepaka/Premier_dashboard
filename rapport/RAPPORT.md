@@ -7,3 +7,6 @@ Pour commencer, j'ai regardé un peu partout sur YouTube et je suis tombé sur u
  On commence par l'installation du module plotly, ensuite on enchaîne avec l'importation de la librairie plotly.express. Après ça, le reste est de voir ce que l'on veut concrètement visualiser  et ensuite le faire grâce à la documentation  de plotly.
 
 
+- En deuxième partie, je me suis dirigé vers la série de vidéos sur le dashboarding. Après avoir fini le visionnage de cette série, j'ai lu le tutoriel de plotly pour avoir toutes les infos dont j'avais besoin. J'ai réalisé un petit mémo se trouvant dans le même dossier que ce rapport et est nommé memo_dash.md .
+
+-[Tutoriel dash-plotly](https://dash.plotly.com/tutorial) 
