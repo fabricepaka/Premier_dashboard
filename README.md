@@ -2,4 +2,4 @@
 
 Bienvenue sur ce micro projet de dashboarding avec plotly express et dash.
 
-*par <span style="color:blue">PAKA Fabrice</span>*
+par <span style="color:blue">PAKA Fabrice</span>
