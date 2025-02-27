@@ -17,7 +17,7 @@ Pour commencer on creer un fichier `script.py`, (generalement `app.py`)ensuite i
 - De la librairie `dash` importer des modules et objets necessaires pour les blocks a affichees dans l'applications: Exemple:`from dash import Dash, dcc`
 - Creer l'application par l'instantiation de l'objet Dash dans le nom de variable de l'application que vous aurez choisit (generalement `app`): `app=Dash() `
 - appeler la methode .layout() sur l'application pour afficher au moins un graphique plotly deja concu: app.layout(dcc.Graph(id='id-dugraph-Choisit' , figure=nom_du_graph))
-- ecrire le code suivant pour le lancement de l'application:``if __name__ =='__main__':
+- ecrire le code suivant pour le lancement de l'application:```if __name__ =='__main__':
                                                                  app.run(debug= True, port=8050)```
 
 
